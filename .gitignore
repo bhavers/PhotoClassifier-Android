@@ -1,3 +1,8 @@
+.DS_Store
+Podfile.lock
+Pods/
+object-storage-starter.xcworkspace/
+
 # Built application files
 *.apk
 *.ap_
@@ -34,6 +39,7 @@ captures/
 
 # Intellij
 *.iml
+.idea*
 
 # Keystore files
 *.jks
