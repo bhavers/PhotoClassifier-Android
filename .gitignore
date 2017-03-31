@@ -3,6 +3,9 @@ Podfile.lock
 Pods/
 object-storage-starter.xcworkspace/
 
+#api key for Watson Visual Recognition.
+app/src/main/res/values/watson_credentials.xml
+
 # Built application files
 *.apk
 *.ap_
@@ -94,3 +97,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
